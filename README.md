@@ -1,2 +1,2 @@
 # moduzhang.github.io
-Blog
+基于Hexo-Github搭建的个人博客
